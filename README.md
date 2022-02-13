@@ -8,7 +8,7 @@ Thanks for checking out this front-end coding solution.
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
-Check out solution [here]()
+Check out solution [here](https://salma247.github.io/qr-code-component/)
 
 
 ## The challenge
